@@ -22,7 +22,7 @@ A szerver előre tartalmaz 5 hotel vendéget. Kérlek az általuk meghatározott
     	"name": "Jobbos Tibi",
     	"room_number": 105,
     	"start_date": "2022-09-25T00:00:00.000Z",
-	"end_date": "2022-09-29T00:00:00.000Z"
+    	"end_date": "2022-09-29T00:00:00.000Z"
     }
 
 Figma link: https://www.figma.com/file/Ihj7uXejtX0q8jFoa1HcUd/Hotel-Transilvania?node-id=0%3A1
