@@ -26,3 +26,7 @@ A szerver előre tartalmaz 5 hotel vendéget. Kérlek az általuk meghatározott
     }
 
  A feladat megoldását GitHub-ra töltsd fel és ha publikus akkor küld át az url-t ha hanem akkor adj engem hozzá a projecthez kollaborátorként. (@BergkampHUN)
+
+## Design preview
+![Opening screen](https://github.com/BergkampHUN/coding-challenge/blob/main/images/Desktop%20-%201.png?raw=true)
+![New guest screen](https://github.com/BergkampHUN/coding-challenge/blob/main/images/Desktop%20-%202.png?raw=true)
