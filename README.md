@@ -1,9 +1,9 @@
 # Coding challenge
 
-Isten hozott a Hotel Transilvaniában!
-A feladatod az lesz hogy létrehozz 2 oldalt, a csatolt figma file alapján.
-Az első oldalon ami egyben a nyitóoldal a hotel aktuális vendégeit kell megjelenítened.
-A második oldalon pedig új vendégeket kell tudni hozzáadni a hotelhez.
+### Isten hozott a Hotel Transilvaniában!   
+A feladatod az lesz hogy létrehozz 2 oldalt, a csatolt figma file alapján.   
+Az első oldalon ami egyben a nyitóoldal a hotel aktuális vendégeit kell megjelenítened.   
+A második oldalon pedig új vendégeket kell tudni hozzáadni a hotelhez.   
 
 A feladat megoldásához szükséges endpointok:
 
